@@ -1,4 +1,4 @@
-Manifiesto /cypherpunk/
+Manifiesto *cypherpunk*
 =======================
 
 por Eric Hughes
