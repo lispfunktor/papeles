@@ -17,7 +17,7 @@ No podemos esperar que los gobiernos, corporaciones o cualquier otra gran organi
 
 Debemos defender nuestra propia privacidad si esperamos tener alguna. Debemos unirnos y crear sistemas que permitan llevar a cabo transacciones anónimas. La gente ha estado defendiendo su privacidad durante siglos con susurros, oscuridad, sobres, puertas cerradas, apretones de manos secretos y mensajeros. Las tecnologías del pasado no permitieron una privacidad fuerte, pero las tecnologías electrónicas sí lo permiten.
 
-Nosotros, los /Cypherpunks/ nos dedicamos a construír sistemas anónimos. Nosotros defendemos nuestra privacidad con criptografía, con sistemas de redireccionamiento de correos, con firmas digitales y con dinero electrónico.
+Nosotros, los Cypherpunks nos dedicamos a construír sistemas anónimos. Nosotros defendemos nuestra privacidad con criptografía, con sistemas de redireccionamiento de correos, con firmas digitales y con dinero electrónico.
 
 Los Cypherpunks escribimos código. Sabemos que uno tiene que escribir código para defender su privacidad, y dado que uno no puede obtener privacidad hasta que no la obtengamos todos, vamos a escribirlo. Publicamos nuestro código para que nuestros colegas Cypherpunks puedan practicar y jugar con él. Nuesto código es gratuíto para todo el mundo. No nos importa demasiado si no apruebas el software que escribimos. Sabemos que el software no puede destruírse, y que un sistema suficientemente disperso no se puede desconectar.
 
